@@ -25,4 +25,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div><br/>
 
-Olá! Me chamo Felipe é sou apaixonado pela área da programação, sou comunicativo, proativo, disciplinado e aberto a novos conhecimentos é desafios, é atualmente estudo programação através dos cursos Curso Desenvolvimento Web Full Stack, Dio Digital Innovation One é pelo Curso em Vídeo do Gustavo Guanabara. E atualmente faço faculdade de Análise e Desenvolvimento de Sistemas, pela UVA - Universidade Veiga de Almeida. Gosto muito essa área da programação, pois é o meu objetivo fazer isso até o meu ultimo suspiro de vida, é pra mim, cada desafio que surgir, será sempre um Olá, Mundo!🖖
+Olá! Me chamo Felipe é sou apaixonado pela área da programação, sou comunicativo, proativo, disciplinado e aberto a novos conhecimentos é desafios. Gosto muito essa área da programação, pois é o meu objetivo fazer isso até o meu ultimo suspiro de vida, é pra mim, cada desafio que surgir, será sempre um Olá, Mundo!🖖
