@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-11070a210/)
 
-![Felipe Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipeleos&show_icons=true&theme=tokyonight)
+![Felipe Leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipeleos&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeleos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeleos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Hard Skills
 
